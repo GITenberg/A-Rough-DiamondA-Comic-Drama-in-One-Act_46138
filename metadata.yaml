@@ -1,0 +1,28 @@
+_repo: A-Rough-DiamondA-Comic-Drama-in-One-Act_46138
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46138-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buckstone, John Baldwin
+    alias: Buckstone, J. B. (John Baldwin)
+    birthdate: 1802
+    deathdate: 1879
+    gutenberg_agent_id: '43625'
+    url: http://www.gutenberg.org/2009/agents/43625
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'A Rough Diamond: A Comic Drama in One Act'
+url: http://www.gutenberg.org/ebooks/46138
